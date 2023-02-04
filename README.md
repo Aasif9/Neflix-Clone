@@ -1,5 +1,7 @@
 # Netflix-Clone
-This is a project that aims to replicate the basic features and functionality of the popular streaming platform, Netflix. The website allows users to browse a collection of movies and TV shows, create an account, save their favorites, and watch trailers.
+This is a project that aims to replicate the basic features and functionality of the popular streaming platform, Netflix.
+<br>
+The website allows users to browse a collection of movies and TV shows, create an account, save their favorites, and watch trailers.
 
 Key Features<br>
 Browse movies and TV shows 
@@ -34,4 +36,4 @@ Create a new branch for your changes
 Commit your changes and push to your branch
 <br>
 Create a pull request to the main repository
-<br>
+
