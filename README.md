@@ -22,7 +22,7 @@ Run npm install to install the necessary dependencies
 <br>
 Start the development server by running npm run dev
 <br>
-Open your web browser and navigate to http://localhost:3000
+Open your web browser 
 
 <br>
 Contributing
