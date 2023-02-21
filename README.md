@@ -1,4 +1,4 @@
-# Netflix-Clone
+<h1> Netflix Clone </h1>
 This is a project that aims to replicate the basic features and functionality of the popular streaming platform, Netflix.
 <br>
 The website allows users to browse a collection of movies and TV shows, create an account, save their favorites, and watch trailers.
