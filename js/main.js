@@ -10,7 +10,7 @@ function selectItem(e) {
 	this.classList.add('tab-border');
 	// Grab content item from DOM
 	const tabContentItem = document.querySelector(`#${this.id}-content`);
-	// Add show class
+	
 	tabContentItem.classList.add('show');
 }
 
@@ -21,7 +21,7 @@ function removeBorder() {
 	});
 }
 
-// Remove show class from all content items
+// Remove show class from content items
 function removeShow() {
 	tabContentItems.forEach(item => {
 		item.classList.remove('show');
