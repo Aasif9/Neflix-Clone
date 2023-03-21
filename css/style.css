@@ -1,4 +1,4 @@
-/* Global Styles */
+
 :root {
 	--primary-color: #e50914;
 	--dark-color: #141414;
@@ -324,7 +324,7 @@ img {
 }
 
 .btn-xl {
-	font-size: 2rem;
+	font-size: 3rem;
 	padding: 1.5rem 2.1rem;
 	text-transform: uppercase;
 }
